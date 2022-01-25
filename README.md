@@ -1,4 +1,4 @@
-
+<img src="Banner.png">
 ### EYOOOO! 👋
 
 My name's ***Jirka***, but people call me ***Darqes***. I am ***15 years old student*** from ***Czech Republic***. I do content on ***YouTube*** in ***czech*** but if you are interested you can turn on ***subtitles*** which's in ***english***.
