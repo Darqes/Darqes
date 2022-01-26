@@ -24,3 +24,14 @@ I'm also interested in ***Web Development***, ***Programming*** (`Java`, `Python
 
 ⚙️ • `[Currently]` ***Founder*** and ***CEO*** of [Barionix](https://barionix.eu/) <br>
 ⚙️ • `[2019 - 2020]` ***Technician*** for a lot of small projects
+
+<br>
+<br>
+
+### Where You Can Find Me
+
+🎬 • `YouTube` - [Darqes](https://youtube.com/darqes/) <br>
+📷 • `Instagram` - [@darqesis](https://instagram.com/darqesis/) <br>
+💬 • ´Discord` - 𝘿𝘼𝙍𝙌𝙀𝙎#6114 <br>
+📣 • `Linktree` - [Darqes](https://linktr.ee/darqes/) <br>
+📌 • `Website` - [www.darqes.eu](https://darqes.eu/) - **Soon..**
