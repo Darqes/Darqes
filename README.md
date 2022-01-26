@@ -10,7 +10,7 @@ I'm also interested in ***Web Development***, ***Programming*** (*Java*, *Python
 <br>
 <br>
 
-### Favourite IDE 📌
+### Favourite IDE
 
 ❤️ • *HTML*, *CSS*, *JS* - [Visual Studio Code](https://code.visualstudio.com/) <br>
 💜 • *PHP* - [PhpStorm](https://www.jetbrains.com/phpstorm/) <br>
@@ -19,7 +19,7 @@ I'm also interested in ***Web Development***, ***Programming*** (*Java*, *Python
 <br>
 <br>
 
-### Previous and currently employments 🔧
+### Previous and currently employments
 
 ⚙️ • `[Currently]` ***Founder*** and ***CEO*** of [Barionix](https://barionix.eu/) <br>
 ⚙️ • `[2019 - 2020]` ***Technician*** for a log of small projects
