@@ -1,4 +1,4 @@
-<img src="Banner.png" width="600px">
+<img src="Banner.png" style width: 600px;>
 
 ### EYOOOO! 👋
 
