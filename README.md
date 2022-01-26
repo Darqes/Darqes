@@ -1,4 +1,4 @@
-<img src="Banner.png">
+![Design and Development](https://github.com/Darqes/Darqes/blob/main/Banner.png/)
 
 ### EYOOOO! 👋
 
