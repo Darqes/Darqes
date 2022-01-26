@@ -7,27 +7,21 @@ My name's ***Jirka***, but people call me ***Darqes***. I am ***15 years old stu
 I'm also interested in ***Web Development*** (**Front-end** - `HTML`, `CSS`, `JS`, `React` | **Back-end** - `PHP`, `jQuery`, `Rust`)  , ***Programming*** (`Java`, `Python`, `C`, `C#`, `C++`) and ***Ethical Hacking***. (*I'm trying to be white hat you know..*)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darqes)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 <br>
-
 ### Favourite IDE
 
 ❤️ • `HTML`, `CSS`, `JS` - [Visual Studio Code](https://code.visualstudio.com/) <br>
 💜 • `PHP` - [PhpStorm](https://www.jetbrains.com/phpstorm/) <br>
 🧡 • `Java` - [IntelliJ Idea](https://www.jetbrains.com/idea/)
-
 <br>
 <br>
-
 ### Previous and currently employments
 
 ⚙️ • `[Currently]` ***Founder*** and ***CEO*** of [Barionix](https://barionix.eu/) <br>
 ⚙️ • `[2019 - 2020]` ***Technician*** for a lot of small projects
-
 <br>
 <br>
-
 ### Where You Can Find Me
 
 🎬 • `YouTube` - [Darqes](https://youtube.com/darqes/) <br>
