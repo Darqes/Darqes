@@ -21,5 +21,5 @@ I'm also interested in ***Web Development***, ***Programming*** (*Java*, *Python
 
 ### Previous and currently employments 🔧
 
-⚙️ • *[Currently]* **Founder** and **CEO** of [Barionix](https://barionix.eu/) <br>
-⚙️ • *[2019 - 2020]* **Technician** for a log of small projects
+⚙️ • `[Currently]` ***Founder*** and ***CEO*** of [Barionix](https://barionix.eu/) <br>
+⚙️ • `[2019 - 2020]` ***Technician*** for a log of small projects
