@@ -15,3 +15,11 @@ I'm also interested in ***Web Development***, ***Programming*** (*Java*, *Python
 ❤️ • *HTML*, *CSS*, *JS* - [Visual Studio Code](https://code.visualstudio.com/) <br>
 💜 • *PHP* - [PhpStorm](https://www.jetbrains.com/phpstorm/) <br>
 🧡 • *Java* - [IntelliJ Idea](https://www.jetbrains.com/idea/)
+
+<br>
+<br>
+
+### Previous and currently employments 🔧
+
+⚙️ • *[Currently]* **Founder** and **CEO** of [Barionix](https://barionix.eu/)
+⚙️ • *[2019 - 2020]* **Technician** for a log of small projects
