@@ -23,10 +23,10 @@ I'm also interested in ***Web Development*** (**Front-end** - `HTML`, `CSS`, `JS
 
 ## What you can find here?
 
-I'll try to add some web templates in HTML and CSS.
-Then I'll create some JS web transitions maybe.
-If I'll have time I'll create some easy plugins for Minecraft Java Edition for you.
-Sometimes I'll add some PHP web panel or another database system for websites. (Like e-shop template or something like that.)
+💻 • I'll try to add some web templates in HTML and CSS.
+📲 • Then I'll create some JS web transitions maybe.
+⌨️ • If I'll have time I'll create some easy plugins for Minecraft Java Edition for you.
+🕹 • Sometimes I'll add some PHP web panel or another database system for websites. (Like e-shop template or something like that.)
 
 
 ## Where you can find me?
