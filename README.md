@@ -22,7 +22,7 @@ I am a ***native Czech speaker***, but I can also ***speak fluent English***. Ot
 ⚙️ • `[2019 - 2020]` ***Technician*** for a lot of small projects
 
 
-## What you will can find here?
+## What will you can find here?
 
 💻 • I'll try to add some ***web templates*** in `HTML` and `CSS`.<br>
 📲 • Then I'll create some `JS` ***web transitions*** maybe.<br>
