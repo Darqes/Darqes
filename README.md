@@ -27,7 +27,7 @@ I am a ***native Czech speaker***, but I can also ***speak fluent English***. Ot
 💻 • I'll try to add some ***web templates*** in `HTML` and `CSS`.<br>
 📲 • Then I'll create some `JS` ***web transitions*** maybe.<br>
 ⌨️ • If I'll have time I'll create some ***easy plugins*** for ***Minecraft Java Edition*** for you.<br>
-🕹 • Sometimes I'll add some `PHP` ***web panel*** or ***another database system*** for ***websites***. (*Like* ***e-shop template*** *or something like that.*)
+🕹 • Sometimes I'll add some `PHP` ***web panel*** or ***another database system*** for ***websites***. (*Like* ***e-shop template*** *or something like that.*)<br>
 🎬 • If you are new to ***Web Development***, ***Programming*** or ***Ethical Hacking***, I will try to create some ***videos*** for you ***over time*** to try to explain the ***basics***.
 
 
