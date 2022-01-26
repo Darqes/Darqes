@@ -32,6 +32,6 @@ I'm also interested in ***Web Development*** (**Front-end** - `HTML`, `CSS`, `JS
 
 🎬 • `YouTube` - [Darqes](https://youtube.com/darqes/) <br>
 📷 • `Instagram` - [@darqesis](https://instagram.com/darqesis/) <br>
-💬 • ´Discord` - 𝘿𝘼𝙍𝙌𝙀𝙎#6114 <br>
+💬 • `Discord` - 𝘿𝘼𝙍𝙌𝙀𝙎#6114 <br>
 📣 • `Linktree` - [Darqes](https://linktr.ee/darqes/) <br>
 📌 • `Website` - [www.darqes.eu](https://darqes.eu/) - **Soon..**
