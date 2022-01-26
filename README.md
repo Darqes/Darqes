@@ -12,6 +12,6 @@ I'm also interested in ***Web Development***, ***Programming*** (*Java*, *Python
 
 ### Favourite IDE 📌
 
-❤️ • *HTML*, *CSS*, *JS*, *Python* - [Visual Studio Code](https://code.visualstudio.com/)
-💜 • *PHP* - [PhpStorm](https://www.jetbrains.com/phpstorm/)
+❤️ • *HTML*, *CSS*, *JS*, *Python* - [Visual Studio Code](https://code.visualstudio.com/) <br>
+💜 • *PHP* - [PhpStorm](https://www.jetbrains.com/phpstorm/) <br>
 🧡 • *Java* - [IntelliJ Idea](https://www.jetbrains.com/idea/)
