@@ -1,5 +1,6 @@
-<img src="Banner.png">
 ### EYOOOO! 👋
+
+<img src="Banner.png">
 
 My name's ***Jirka***, but people call me ***Darqes***. I am ***15 years old student*** from ***Czech Republic***. I do content on ***YouTube*** in ***czech*** but if you are interested you can turn on ***subtitles*** which's in ***english***.
 I'm also interested in ***Web Development***, ***Programming*** (*Java*, *Python*, *C*, *C#*, *C++*) and ***Ethical Hacking***. (*I'm trying to be white hat you know..*)
