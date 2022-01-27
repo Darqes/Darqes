@@ -2,7 +2,7 @@
 
 # EYOOOO! 👋
 
-My name's ***Jirka***, but people call me ***Darqes***. I am ***15 years old student*** from ***Czech Republic***. I do content on ***YouTube*** in ***czech*** but if you are interested you can turn on ***subtitles*** which's in ***english***.
+My name's ***Jirka***, but people call me ***Darqes*** or ***DarqVerse***. I am ***15 years old student*** from ***Czech Republic***. I do content on ***YouTube*** in ***czech*** but if you are interested you can turn on ***subtitles*** which's in ***english***.
 I'm also interested in ***Web Development*** (**Front-end** - `HTML`, `CSS`, `JS`, `React` | **Back-end** - `PHP`, `jQuery`, `Rust`)  , ***Programming*** (`Java`, `Python`, `C`, `C#`, `C++`) and ***Ethical Hacking***. (*I'm trying to be white hat you know..*)
 I am a ***native Czech speaker***, but I can also ***speak fluent English***. Otherwise I'm learning ***German*** and ***Spanish***.
 
