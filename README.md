@@ -18,8 +18,10 @@ I am a ***native Czech speaker***, but I can also ***speak fluent English***. Ot
 
 ## Previous and currently employments
 
-⚙️ • `[Currently]` ***Founder*** and ***CEO*** of [Barionix](https://barionix.eu/) <br>
+⚙️ • `[Currently]` ***Founder*** and ***CEO*** of [Barionix.eu](https://barionix.eu/) <br>
+⚙️ • `[Currently]` ***Leader*** of [Mainverse.net]('https://mainverse.net/') <br>
 ⚙️ • `[2019 - 2020]` ***Technician*** for a lot of small projects
+
 
 
 ## What will you can find here?
