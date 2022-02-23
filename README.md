@@ -3,7 +3,7 @@
 # EYOOOO! 👋
 
 My name's ***Jirka***, but people call me ***Darqes*** or ***DarqVerse***. I am ***15 years old student*** from ***Czech Republic***. I do content on ***YouTube*** in ***czech*** but if you are interested you can turn on ***subtitles*** which's in ***english***.
-I'm also interested in ***Web Development*** (**Front-end** - `HTML`, `CSS`, `JS`, `React` | **Back-end** - `PHP`, `jQuery`, `Rust`)  , ***Programming*** (`Java`, `Python`, `C`, `C#`, `C++`) and ***Ethical Hacking***. (*I'm trying to be white hat you know..*)
+I'm also interested in ***Web Development*** (**Front-end** - `HTML`, `CSS`, `JS`, `React` | **Back-end** - `PHP`, `Python`, `Rust`)  , ***Programming*** (`Java`, `Python`, `C#`,) and ***Ethical Hacking***.
 I am a ***native Czech speaker***, but I can also ***speak fluent English***. Otherwise I'm learning ***German*** and ***Spanish***.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darqes)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,6 +37,6 @@ I am a ***native Czech speaker***, but I can also ***speak fluent English***. Ot
 
 🎬 • `YouTube` - [Darqes](https://youtube.com/darqes/) <br>
 📷 • `Instagram` - [@darqesis](https://instagram.com/darqesis/) <br>
-💬 • `Discord` - 𝘿𝘼𝙍𝙌𝙀𝙎#6114 <br>
+💬 • `Discord` - 𝘿𝘼𝙍𝙌𝙀𝙎#7777 <br>
 📣 • `Linktree` - [Darqes](https://linktr.ee/darqes/) <br>
 📌 • `Website` - [www.darqes.eu](https://darqes.eu/) - **Soon..**
