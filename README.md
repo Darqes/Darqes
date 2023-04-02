@@ -3,7 +3,7 @@
 # EYOOOO! 👋
 
 My name's ***Jirka***, but people call me ***Darqes*** or ***Vensey***. I am ***17 years old student*** from ***Czech Republic***. I do content on ***YouTube*** in ***Czech*** and also in **English**.
-I'm also interested in ***Web Development*** (**Front-end** - `HTML`, `CSS` [`Bootstrap`, `Tailwind` & `SASS`], `Js` [`jQuery`], `React.js` | **Back-end** - `Node.js`, `mongoDB` [`Mongoose`])  , ***Programming*** (`Java`, `Python`, `C#`, `C`) and ***Ethical Hacking***. Currently I'm learning `PHP`(`Symfony`).
+I'm also interested in ***Web Development*** (**Front-end** - `HTML`, `CSS` [`Bootstrap`, `Tailwind` & `SASS`], `Js` [`jQuery`], `React.js` | **Back-end** - `Node.js`, `mongoDB` [`Mongoose`])  , ***Programming*** (`Java`, `Python`, `C#`, `C`) and ***Ethical Hacking***. Currently I'm learning `PHP` (`Symfony`).
 I am a ***native Czech speaker***, but I can also ***speak fluent English***. I am currently learning ***Spanish*** and ***German*** in my spare time.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darqes)](https://github.com/anuraghazra/github-readme-stats)
