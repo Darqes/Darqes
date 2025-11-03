@@ -4,18 +4,18 @@
 ### 🧠 About Me
 I'm Czech developer and founder working at the intersection of **web, gaming and AI**.
 Currently building:
-- 🕹️ **SoonWillBeRevelead** - an immersive RPG/Minecraft world
-- 💡 **SoonWillBeRevelead** - datacenter & hosting comparison tool
+- 🕹️ **SoonWillBeRevealed** - an immersive RPG/Minecraft world
+- 💡 **SoonWillBeRevealed** - datacenter & hosting comparison tool
 And sometimes making videos as **Darqes**.
 
 ### ⚙️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,prisma,tailwind,react,java,git,figma)](https://skillicons.dev)
 
 ### 🚀 Featured Projects
-🧠 [**SoonWillBeRevelead**](https://github.com) *(coming soon)*<br>
+🧠 [**SoonWillBeRevealed**](https://github.com) *(coming soon)*<br>
 Helping people find the right datacenter or hosting in Czechia & Slovakia.
 
-🕹️ [**SoonWillBeRevelead**](https://github.com) *(coming soon)*<br>
+🕹️ [**SoonWillBeRevealed**](https://github.com) *(coming soon)*<br>
 An immersive RPG world with a realistic economy and historical depth that turns history into adventure.
 
 ### 📊 Stats
