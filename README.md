@@ -2,7 +2,7 @@
 **Building digital worlds & infrastructure for creators, gamers and businesses.**
 
 ### 🧠 About Me
-I'm Czech developer and founder working at the intersection of **web, gaming and AI**.
+I'm Czech developer and founder working at the intersection of **web, gaming and AI**.<br>
 Currently building:
 - 🕹️ **SoonWillBeRevealed** - an immersive RPG/Minecraft world
 - 💡 **SoonWillBeRevealed** - datacenter & hosting comparison tool
